@@ -1,0 +1,11 @@
+{
+  "root": true,
+  "plugins": ["prettier"],
+  "extends": [
+    "prettier",
+    "airbnb"
+  ],
+  "rules": {
+    "prettier/prettier": 2
+  }
+}
